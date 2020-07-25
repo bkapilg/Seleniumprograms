@@ -1,0 +1,32 @@
+[0522/115146.149:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0522/115146.124:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0522/115146.114:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0522/115146.206:ERROR:exception_snapshot_win.cc(98)] thread ID 76008 not found in process
+[0522/115146.206:ERROR:exception_snapshot_win.cc(98)] thread ID 96084 not found in process
+[0522/115146.206:ERROR:exception_snapshot_win.cc(98)] thread ID 96908 not found in process
+[0522/115146.207:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0522/115146.206:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0522/115146.221:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0522/115146.222:ERROR:exception_snapshot_win.cc(98)] thread ID 66108 not found in process
+[0522/115146.221:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0522/115146.222:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0522/115146.222:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0522/115146.222:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0522/115146.227:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0522/115146.227:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0522/115146.227:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0522/115146.227:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0522/115146.263:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0522/115146.263:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0522/115146.263:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0522/115146.263:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0522/115146.267:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0522/115146.267:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0522/115146.267:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0522/115146.267:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0524/163014.725:ERROR:file_io_win.cc(170)] CreateFile C:\Users\20126635\AppData\Local\Temp\scoped_dir1200_1491662818\Crashpad\reports\c2136727-9618-4898-aa7d-1845140ace62.dmp: The system cannot find the path specified. (0x3)
+[0524/163015.103:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0524/163149.165:ERROR:file_io_win.cc(170)] CreateFile C:\Users\20126635\AppData\Local\Temp\scoped_dir106160_1343963529\Crashpad\reports\ade8bb18-4c61-4d5f-974e-897567b39677.dmp: The system cannot find the path specified. (0x3)
+[0524/163149.236:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/094612.743:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[0706/094612.897:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
